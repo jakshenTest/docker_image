@@ -1,3 +1,7 @@
-hipudding/grafana:latest
+hipudding
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+image: teslamate/teslamate:latest
+image: postgres:16
+image: eclipse-mosquitto:2
+image: teslamate/grafana:latest
