@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        platform: [amd64, arm/v7]   
+        platform: [ arm/v7]   
     steps:
     
     
