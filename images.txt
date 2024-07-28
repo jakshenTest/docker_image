@@ -10,6 +10,7 @@
 #--platform=linux/arm/v7 eclipse-mosquitto:2
 #--platform=linux/arm/v7 teslamate/grafana:latest
 #--platform=linux/arm/v7 portainer/portainer-ee:latest
-ghcr.io/home-assistant/home-assistant:stable
+#ghcr.io/home-assistant/home-assistant:stable
+apachecn0/mit-18-06-linalg-notes
 
 
