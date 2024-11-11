@@ -1,16 +1,16 @@
+platform=linux/arm/v7 teslamate/teslamate:latest
+platform=linux/arm/v7 postgres:17
+platform=linux/arm/v7 eclipse-mosquitto:2
+platform=linux/arm/v7 teslamate/grafana:latest
 #--platform=linux/arm/v7 dhuar/teslamate:latest
 #--platform=linux/arm/v7 dhuar/grafana:latest
 #--platform=linux/arm/v7 postgres:17
 #--platform=linux/arm/v7
 #--platform=linux/arm/v7 hipudding/grafana
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-platform=linux/arm/v7 teslamate/teslamate:latest
-platform=linux/arm/v7 postgres:17
-platform=linux/arm/v7 eclipse-mosquitto:2
-platform=linux/arm/v7 teslamate/grafana:latest
+#--支持私库
+#--k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #--platform=linux/arm/v7 portainer/portainer-ee:latest
-#ghcr.io/home-assistant/home-assistant:stable
+#--ghcr.io/home-assistant/home-assistant:stable
 #--apachecn0/mit-18-06-linalg-notes
 
 
