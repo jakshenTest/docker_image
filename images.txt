@@ -2,10 +2,10 @@ teslamate/teslamate:latest
 postgres:17
 eclipse-mosquitto:2
 teslamate/grafana:latest
-#--platform=linux/arm/v7 teslamate/teslamate:latest
-#--platform=linux/arm/v7 postgres:17
-#--platform=linux/arm/v7 eclipse-mosquitto:2
-#--platform=linux/arm/v7 teslamate/grafana:latest
+platform=linux/arm/v7 teslamate/teslamate:latest
+platform=linux/arm/v7 postgres:17
+platform=linux/arm/v7 eclipse-mosquitto:2
+platform=linux/arm/v7 teslamate/grafana:latest
 #--platform=linux/arm/v7 dhuar/teslamate:latest
 #--platform=linux/arm/v7 dhuar/grafana:latest
 #--platform=linux/arm/v7 postgres:17
